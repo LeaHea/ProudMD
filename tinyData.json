@@ -1,0 +1,222 @@
+ [
+  {
+  "type":"planned_parenthood",
+  "name":"San Francisco Health Center",
+  "address":"1650 Valencia St. San Francisco, CA, USA",
+  "latitude":37.746128,
+  "longitude":-122.420422,
+  "phone":"415.821.1282",
+  "website":"https://www.plannedparenthood.org/health-center/california/san-francisco/94110/san-francisco-health-center-3997-90200",
+  "description":"",
+  "reported":0
+  },
+  {
+  "type":"planned_parenthood",
+  "name":"Wohlford Family Clinic at the Good Samaritan Family Resource Center",
+  "address":"1294 Potrero Ave. San Francisco, CA 94110",
+  "latitude":37.7518,
+  "longitude":-122.406461,
+  "phone":"415.401.8737",
+  "website":"https://www.plannedparenthood.org/health-center/california/san-francisco/94110/wohlford-family-clinic-at-the-good-samaritan-family-resource-center-4067-90200",
+  "description":"",
+  "reported":0
+  },
+  {
+  "type":"planned_parenthood",
+  "name":"El Cerrito Health Center",
+  "address":"320 El Cerrito Plaza El Cerrito, CA 94530",
+  "latitude":37.899307,
+  "longitude":-122.298352,
+  "phone":"510.527.5806",
+  "website":"https://www.plannedparenthood.org/health-center/california/el-cerrito/94530/el-cerrito-health-center-3940-90200",
+  "description":"",
+  "reported":0
+  },
+  {
+  "type":"planned_parenthood",
+  "name":"Central Richmond Health Center",
+  "address":"340 Marina Way Richmond, CA 94801",
+  "latitude":37.936697,
+  "longitude":-122.355963,
+  "phone":"510.232.1250",
+  "website":"https://www.plannedparenthood.org/health-center/california/richmond/94801/central-richmond-health-center-2790-90200",
+  "description":"",
+  "reported":0
+  },
+  {
+  "type":"planned_parenthood",
+  "name":"East Oakland / Coliseum Health Center",
+  "address":"8480 Enterprise Way, Oakland, CA 94621",
+  "latitude":37.742278,
+  "longitude":-122.192361,
+  "phone":"510.746.4700",
+  "website":"https://www.plannedparenthood.org/health-center/california/oakland/94621/east-oakland---coliseum-health-center-4188-90130",
+  "description":"",
+  "reported":0
+  },
+  {
+  "type":"planned_parenthood",
+  "name":"Hilltop-Richmond Health Center",
+  "address":"2970 Hilltop Mall Road #307 Richmond, CA 94806",
+  "latitude":37.977568,
+  "longitude":-122.329256,
+  "phone":"510.222.5290",
+  "website":"https://www.plannedparenthood.org/health-center/california/richmond/94801/central-richmond-health-center-2790-90200",
+  "description":"",
+  "reported":0
+  },
+  {
+  "type":"planned_parenthood",
+  "name":"San Rafael Health Center",
+  "address":"2 H Street San Rafael, CA 94901",
+  "latitude":37.974362,
+  "longitude":-122.538371,
+  "phone":"415.459.4907",
+  "website":"https://www.plannedparenthood.org/health-center/california/san-rafael/94901/san-rafael-health-center-4114-90200",
+  "description":"",
+  "reported":0
+  },
+  {
+  "type":"planned_parenthood",
+  "name":"San Mateo Health Center",
+  "address":"29 Baywood Ave San Mateo, CA 94402",
+  "latitude":37.564558,
+  "longitude":-122.328785,
+  "phone":"650.235.7940",
+  "website":"",
+  "description":"",
+  "reported":0
+  },
+  {
+  "type":"planned_parenthood",
+  "name":"Hayward Health Center",
+  "address":"1032 A Street Hayward, CA 94541",
+  "latitude":37.674355,
+  "longitude":-122.083193,
+  "phone":"510.300.3800",
+  "website":"https://www.plannedparenthood.org/health-center/california/hayward/94541/hayward-health-center-4150-90130",
+  "description":"",
+  "reported":0
+  },
+  {
+  "type":"planned_parenthood",
+  "name":"Anaheim Health Center",
+  "address":"303 W. Lincoln Ave. #105 Anaheim, CA 92805",
+  "latitude":33.835246,
+  "longitude":-117.917987,
+  "phone":"510.300.3800",
+  "website":"https://www.plannedparenthood.org/health-center/california/hayward/94541/hayward-health-center-4150-90130",
+  "description":"",
+  "reported":0
+  },
+  {
+  "type":"planned_parenthood",
+  "name":"Alhambra Health Center",
+  "address":"330 S. Garfield Ave. Suite 300 Alhambra, CA 91801",
+  "latitude":34.091404,
+  "longitude":-118.123928,
+  "phone":"714.922.4100",
+  "website":"https://www.plannedparenthood.org/health-center/california/anaheim/92805/anaheim-health-center-2284-90160",
+  "description":"",
+  "reported":0
+  },
+  {
+  "type":"planned_parenthood",
+  "name":"Antioch Health Center",
+  "address":"1104 Buchanan Road #C10 Antioch, CA 94509",
+  "latitude":37.99875,
+  "longitude":-121.823001,
+  "phone":"925.754.4550",
+  "website":"https://www.plannedparenthood.org/health-center/california/antioch/94509/antioch-health-center-2573-90200",
+  "description":"",
+  "reported":0
+  },
+  {
+  "type":"planned_parenthood",
+  "name":"Bakersfield Health Center",
+  "address":"2633 16th Street Bakersfield, CA 93301",
+  "latitude":35.372209,
+  "longitude":-119.032749,
+  "phone":"661.634.1000",
+  "website":"https://www.plannedparenthood.org/health-center/california/bakersfield/93301/bakersfield-health-center-4028-90130",
+  "description":"",
+  "reported":0
+  },
+  {
+  "type":"planned_parenthood",
+  "name":"Burbank Health Center",
+  "address":"916 W Burbank Blvd. #M Burbank, CA 91506",
+  "latitude":34.183609,
+  "longitude":-118.322394,
+  "phone":"800.576.5544",
+  "website":"https://www.plannedparenthood.org/health-center/california/burbank/91506/burbank-health-center-2236-90070",
+  "description":"",
+  "reported":0
+  },
+  {
+  "type":"facility",
+  "name":"BERKELEY FREE CLINIC-STD",
+  "address":"2339 Durant Ave, Berkeley California 94704",
+  "latitude":37.867727,
+  "longitude":-122.261785,
+  "phone":"510.548.2570",
+  "website":"http://www.berkeleyfreeclinic.org/pages/gmhc",
+  "description":"The Gay Men's Health Collective of the Berkeley Free Clinic provides STD (Sexually Transmitted Disease) testing and treatment for all men, regardless of sexual orientation.",
+  "reported":0
+  },
+  {
+  "type":"facility",
+  "name":"CASTRO - MISSION HEALTH CENTER",
+  "address":"3850 17th Street, San Francisco California 94114",
+  "latitude":37.762958,
+  "longitude":-122.431875,
+  "phone":"415.934.7700",
+  "website":"http://www.sfhealthnetwork.org/primary-care-3/castro-mission-health-center/",
+  "description":"The SF Health Network is the city’s only complete care system. Our network includes primary care for all ages, dentistry, emergency & trauma treatment, medical & surgical specialties, diagnostic testing, skilled nursing & rehabilitation, and behavioral health. UCSF physicians provide research and teaching expertise. The New York Times has called our birth center at Zuckerberg San Francisco General Hospital and Trauma Center the safest place to have a baby in California.",
+  "reported":0
+  },
+  {
+  "type":"psych_facility",
+  "name":"DORE URGENT CARE CENTER",
+  "address":"52 Dore Street, San Francisco California 94110",
+  "latitude":37.773654,
+  "longitude":-122.413011,
+  "phone":"415.553.3100",
+  "website":"http://sfhomeless.wikia.com/wiki/Dore",
+  "description":"DUCC is a social model rehabilitation approach to crisis intervention. The program is designed to assist SFGH Psychiatric Emergency (PES) and other hospital emergency services by accepting adult clients in psychiatric crisis who do not require hospitalization but who are currently taken to PES for evaluation and treatment. Call and ask for a clinician to present a client. In many cases we can help arrange transportation. DUCC takes referrals from Mobile Crisis, SFPD, community mental health clinics, case managers, outside clinics, PES triage and medical emergency rooms. Dore Street Care Clinic does not accept walk-ins without referrals from mental health providers or those mentioned above.",
+  "reported":0
+  },
+  {
+  "type":"facility",
+  "name":"FORENSIC AIDS PROJECT",
+  "address":"798 Brannan Street, San Francisco California 94114",
+  "latitude":37.773284,
+  "longitude":-122.403261,
+  "phone":"415.581.3100",
+  "website":"http://sfhiv.org/",
+  "description":"Hepatitis C testing, Hepatitis B vaccination, Hepatitis services: Outreach, Risk Assessment, Testing, Disclosure and Post-disclosure, Referral and linkage",
+  "reported":0
+  },
+  {
+  "type":"psych_facility",
+  "name":"GAYLESTA",
+  "address":"584 Castro Street, #230, San Francisco California 94114-2594",
+  "latitude":37.759608,
+  "longitude":-122.435153,
+  "phone":"415.729.3996",
+  "website":"http://www.gaylesta.org/",
+  "description":"The LGBTQ Psychotherapy Association. We provide mental health services including therapist referrals, education and consultation. Our members offer a wide range of specializations, allowing us to serve as a unique resource both the LGBTQ communities and to other service providers.",
+  "reported":0
+  },
+  {
+  "type":"facility",
+  "name":"CITY CLINIC",
+  "address":"356 7th Street, San Francisco California 94114",
+  "latitude":37.775891,
+  "longitude":-122.407163,
+  "phone":"415.487.5500",
+  "website":"http://www.sfcityclinic.org/",
+  "description":"HIV Testing and Services, Women's Health, STD Testing.",
+  "reported":0
+  }
+  ]
